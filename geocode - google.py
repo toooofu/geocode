@@ -33,21 +33,21 @@ print len(addresscol)
 #用于存放坐标
 coordinate = []
 #google api key
-apikey = ['AIzaSyApWYZOZwwizL6sT31X9EANZSXz--N2jvA',
-		  'AIzaSyAr4V4KEcjU_HKA7Oe5LgDTYCLYenNKwYY',
-		  'AIzaSyD29eXYuSjIWIoc2aV9Qm3w1SdXvUMQEqI',
-		  'AIzaSyDNvqpjVpISFqqesohQKcOVK_MfCQnJO6U',
-		  'AIzaSyCdXL_xEl_fu5vwwpPIopGwro3SSyn5f20',
-		  'AIzaSyBX7lp38GH1_byL6T2wzjA5epUDRUIIrBg',
-		  'AIzaSyCtO2oGgSDNw_6qQnmQsCmrPoi-zGafjKg',
-		  'AIzaSyClWRDlOGSyhihH0SZMq6YvlM9Bfgo3r2c',
-		  'AIzaSyBDKdWxl91JrDbLWjlxKv8obOsm28rxHhQ',
-		  'AIzaSyDnTytFbnVHYcLEgNPoTHgMxVHb_dnYEA8',
-		  'AIzaSyDG-4CwQBrbK3p5Gmu57CywXDaSENOZ6tw',
-		  'AIzaSyCIIl3HfWPXm_Taskt_gA8AsWx88S_nyOg',
-		  'AIzaSyB-XW_NQ3tnMu9pIBXVM3mOZdOyisCcyzc',
-		  'AIzaSyDyBde2-4DUu6fHfTn75eHp0cDFBtex5nQ',
-		  'AIzaSyDZl5d8_RZcoIYsfToAS1AEmlxYQHvUm6k']
+apikey = [	  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************',
+		  '***************************************']
 #num用于记载正在使用第几个api key
 num = 0
 #po用于记载内置循环到乐地址列表的哪一项，实现更换key后从断点处继续工作
